@@ -18,7 +18,7 @@ MiNiFi is a child project effort of Apache NiFi
 
 ## Table of Contents
 
-- [Features](#features)
+- [Features](#features updated)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
 - [Getting Help](#getting-help)
